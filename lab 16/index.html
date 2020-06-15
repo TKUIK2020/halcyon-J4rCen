@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lab 16</title>
+<meta charset="utf-8" />
+</head>
+<body>
+    <div id="app">
+        <app-image></app-image>
+    </div>
+    <script src="https://unpkg.com/vue"></script>
+    <script>
+        Vue.component('app-image',{
+            data:function(){
+                return{
+                    visible: false   
+                }
+            }, template: `<div><p v-if="visible"><img src="image.jpg" width="500px" height="500px"></p><p></p><button v-on:click="visible=!visible">{{visible?'Скрыть':'Показать'}}</button></div>`
+        })
+        var app = new Vue({
+            el: '#app',
+        });
+    </script>
+</body>
+</html>
