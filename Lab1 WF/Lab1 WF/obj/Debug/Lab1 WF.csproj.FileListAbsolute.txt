@@ -1,0 +1,10 @@
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\bin\Debug\Lab1 WF.exe.config
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\bin\Debug\Lab1 WF.exe
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\bin\Debug\Lab1 WF.pdb
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\obj\Debug\Lab1 WF.csprojAssemblyReference.cache
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\obj\Debug\Lab1_WF.Form1.resources
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\obj\Debug\Lab1_WF.Properties.Resources.resources
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\obj\Debug\Lab1 WF.csproj.GenerateResource.cache
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\obj\Debug\Lab1 WF.csproj.CoreCompileInputs.cache
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\obj\Debug\Lab1 WF.exe
+C:\Рабочий стол\Програмы\Программировния\Проекты\Lab1 WF\Lab1 WF\obj\Debug\Lab1 WF.pdb
